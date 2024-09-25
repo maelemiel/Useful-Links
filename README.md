@@ -18,6 +18,9 @@
 ### Exercices
 - https://www.codingame.com/home
 - https://exercism.org/
+- https://www.codewars.com/
+- https://leetcode.com/
+- https://www.hackerrank.com/
 
 ### Ressources
 - https://github.com/trimstray/the-book-of-secret-knowledge
@@ -30,6 +33,7 @@
 - https://theaisummer.com
 - https://www.cloudskillsboost.google/paths
 - https://www.khanacademy.org
+- https://www.freecodecamp.org/
 
 ## Autre
 - https://monkeytype.com
