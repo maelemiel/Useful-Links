@@ -32,7 +32,7 @@
 - [Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books) - programming books and resources, covering many languages and topics
 - [cs-Video-Courses](https://github.com/Developer-Y/cs-video-courses) - computer science video courses from universities worldwide
 - [RoadMap](https://roadmap.sh/) - developer roadmaps
-- [jwasham?tab=repositories](https://github.com/jwasham?tab=repositories) - Repositories by John Washam, including "Coding Interview University," a comprehensive guide to preparing for coding interviews
+- [jwashamRepositories](https://github.com/jwasham?tab=repositories) - Repositories by John Washam, including "Coding Interview University," a comprehensive guide to preparing for coding interviews
 - [TeachYourselfcs](https://teachyourselfcs.com/) - A guide to self-teaching computer science
 - [Mlu-explain](https://mlu-explain.github.io) - machine learning concepts in a clear and accessible way
 - [TheAIsummer](https://theaisummer.com) - A blog focused on AI, machine learning, and deep learning tutorials, including practical projects and explanations
