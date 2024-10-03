@@ -10,10 +10,10 @@
 
 
 ### Stack Web
-- https://create.t3.gg
-- https://tailwindcss.com
-- https://getbootstrap.com
-- https://ui.shadcn.com
+- [T3 Stack](https://create.t3.gg) - full-stack projects with TypeScript, Next.js, Prisma, and tRPC.
+- [Tailwindcss](https://tailwindcss.com) - CSS framework
+- [Bootstrap](https://getbootstrap.com) - CSS framework
+- [Shadcn](https://ui.shadcn.com) - collection of UI components built with Tailwind CSS
 
 ### Exercices
 - https://www.codingame.com/home
