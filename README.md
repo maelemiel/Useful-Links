@@ -22,6 +22,11 @@
 - https://leetcode.com/
 - https://www.hackerrank.com/
 
+  #### Cyber Exercices
+  - https://www.hackthebox.com
+  - https://www.root-me.org
+  - https://tryhackme.com
+
 ### Ressources
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/EbookFoundation/free-programming-books
